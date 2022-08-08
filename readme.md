@@ -11,17 +11,6 @@ The interaction can happen via a terminal prompt.
 A player should be able to play any number of games in one session.
 
 
-## Judgements -
-
-While the coding of this application should be simple, we want the final submission to be a production ready code.
-
-You will be judged on the following:
-1) Code Quality and readability
-2) Testing
-3) Documentation + logging
-4) Production readiness
-
-
 ## Detail about the Implementation - 
 
 
