@@ -2,13 +2,16 @@
 
     Simple rock paper scissors game. 
 
-The game should be played between a player and a computer which chooses randomly. 
+The game played between a player and a computer which chooses randomly. 
 
-The player should be able to interact with the application to choose one of the available actions (Rock, Paper, Scissors). 
+The player should be able to interact with the application to choose one of the available actions (Rock, Paper, Scissors) using command line
+where 0 means ROCK, 1 means Paper, 2 means Scissor. 
 
 The interaction can happen via a terminal prompt. 
 
-A player should be able to play any number of games in one session.
+Any player should be able to play any number of games in one session.
+
+First Input should be the Name of the player and we will start taking the input for Rock/Paper/Scissor.
 
 
 ## Detail about the Implementation - 
